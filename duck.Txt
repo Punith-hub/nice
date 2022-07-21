@@ -1,11 +1,16 @@
+<<<<<<< HEAD
 Hi I am Raj
 
 good
 
-fine
-
-
-ji
-
 
 nice to talk
+=======
+hi how are you 
+
+22/07/2022
+
+fine
+
+Ok i will asapnnnnnnnnn
+>>>>>>> 33112a5f8ed6ec7b4f6ccddbce4889e1d12ce985
